@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.player{
+    width: 100%;
+    height: 90%;
+    padding: 10px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: grid;
+    height: 100vh;
+    grid-template-rows: 1fr 1fr;
+}
+
+.playerData{
+    background-color: green;
+    width: 100%;
+    height: 45%;
+}
+
+.playerHand{
+    background-color: blue;
+    width: 100%;
+    height: 45%;
+}
