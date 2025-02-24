@@ -10,6 +10,6 @@ let data = [
     {name: 'nine', display: '9', amount: 4, score: 9},
     {name: 'ten', display: '10', amount: 4, score: 10},
     {name: 'queen', display: 'Q', amount: 4, score: 10},
-    {name: 'king', display: 'J', amount: 4, score: 10},
+    {name: 'king', display: 'K', amount: 4, score: 10},
     {name: 'jack', display: 'J', amount: 4, score: 10}
 ];
